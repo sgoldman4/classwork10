@@ -16,7 +16,7 @@ public class SortTest
 				"Burlyn", "Carmen", "Kathy", "Divya",
 				"Hammad", "Lukasz", "Conor", "Terry",
 				"Zaarib", "Nikos", "Vlad", "Vova",
-				"Yuki", "Amy", "Sharon", "Nathan"};
+				"Yuki", "Amy", "Sharon"};
 		
 		SortingAlgorithms.selectionSort(names);
 		SortingAlgorithms.printArray(names);
